@@ -1,6 +1,6 @@
-# Discord channels of AI Agents
+# Discord channels of AI Agents & Automations
 
-> List of AI Agent and related discord channels with links
+> List of AI Agent, agentic workflows, automation and related discord channels with invite links
 
 ## Index
 
@@ -57,3 +57,13 @@
 | <h2 id="start-of-v">V</h2>                                                               |                                                                                                                 |                                                              |
 | Vapi                                                                                     | [Discord › pUFNcf2WmH](https://discord.gg/invite/pUFNcf2WmH)                                                    | AI-powered API generation tool                               |
 | Voiceflow AI                                                                             | [Discord › voiceflow-community-1079548823610871889](https://discord.gg/voiceflow-community-1079548823610871889) | Platform for building conversational AI experiences          |
+
+## You can contribute ✨
+
+If you know Discord invite link of AI Agent and related channels, then you can add that in this list.
+
+1. Fork this repository
+1. Update the README.md (this) file to add your entry in alphabetical order
+1. Make a Pull Request (PR) from your forked repository to this repository
+
+I'll be merging new PRs on daily basis. Please tag me in comment for attention [@ashgkwd](https://github.com/ashgkwd)
