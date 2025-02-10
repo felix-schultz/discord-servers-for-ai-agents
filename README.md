@@ -60,7 +60,7 @@
 
 ## You can contribute ✨
 
-If you know Discord invite link of AI Agent and related channels, then you can add that in this list.
+If you have the Discord invite link for AI Agents or agentic automation-related servers, please include it in this list
 
 1. Fork this repository
 1. Update the README.md (this) file to add your entry in alphabetical order
