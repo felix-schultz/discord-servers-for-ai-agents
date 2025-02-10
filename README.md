@@ -1,6 +1,6 @@
-# Discord channels of AI Agents & Automations
+# Discord Channels for AI Agents & Automations
 
-> List of AI Agent, agentic workflows, automation and related discord channels with invite links
+> List of AI Agents, agentic workflows, automation and related discord channels with invite links
 
 ## Index
 
