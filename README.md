@@ -7,6 +7,7 @@
 - [A](#start-of-a)
 - [B](#start-of-b)
 - [C](#start-of-c)
+- [F](#start-of-f)
 - [G](#start-of-g)
 - [H](#start-of-h)
 - [L](#start-of-l)
@@ -34,6 +35,8 @@
 | [Chidori](https://aiagentslive.com/agents/3b8a0c.chidori-ai-agent-builder)               | [Discord › CJwKsPSgew](https://discord.com/invite/CJwKsPSgew)                                                   | A reactive runtime for building durable AI agents                                                                    |
 | [Continue](https://aiagentslive.com/agents/9g9g.continue-ai-agent)                       | [Discord › vapESyrFmJ](https://discord.gg/vapESyrFmJ)                                                           | AI coding assistant                                                                                                  |
 | Crestel                                                                                  | [Discord › crestal](https://discord.gg/invite/crestal)                                                          | AI-powered customer support                                                                                          |
+| <h2 id="start-of-f">F</h2>                                                               |                                                                                                                 |                                                                                                                      |
+| [Flow-Like](https://flow-like.com)                                                       | [Discord › good-co.de](https://discord.com/invite/KTWMrS2)                                                      | Open-source, local-first workflow automation. Fully typed, fast, and built for AI & enterprise use.                  |
 | <h2 id="start-of-g">G</h2>                                                               |                                                                                                                 |                                                                                                                      |
 | [GPT Researcher](https://aiagentslive.com/agents/6e2d.gpt-researcher-ai-agent)           | [Discord › 2pFkc83fRq](https://discord.gg/2pFkc83fRq)                                                           | Say Goodbye to Hours of Research                                                                                     |
 | Groq                                                                                     | [Discord › n8KtCjfAug](https://discord.com/invite/n8KtCjfAug)                                                   | AI chip manufacturer                                                                                                 |
